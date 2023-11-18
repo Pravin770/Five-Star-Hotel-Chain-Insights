@@ -1,5 +1,5 @@
 # Five-Star-Hotel-Chain-Insights
-Visualisation of data insights of a prestigious 5-star hotel chain with locations across India. 🏨
+Visualisation of data insights of a prestigious 5-star hotel chain with locations across India. 🏨 
 
 ### Executive Summary Page. (Page No. 1)
 ![Capture](https://github.com/Pravin770/Five-Star-Hotel-Chain-Insights/assets/56891610/7fd9e1ba-d36a-4d59-87f4-d784e1a57570)
